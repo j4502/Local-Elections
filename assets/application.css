@@ -1,1 +1,28 @@
-@import "bootstrap.min.css";
+
+.body ul{
+    font-family: "Domine", serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+  }
+
+.body p{
+  font-family: "Domine", serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+}
+
+.h1 {
+   font-family: "Domine", serif;
+   font-size: ;
+   line-height: ;
+   color: #333;
+ }
+
+ .h2 {
+    font-family: "helvetica neue", helvetica, arial, sans-serif;
+    font-size: ;
+    line-height: ;
+    color: #333;
+  }
