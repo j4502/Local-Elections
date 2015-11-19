@@ -33,3 +33,8 @@
      line-height: ;
      color: #333;
    }
+
+   .primary-nav ul {
+     margin: 0;
+    padding: 0;
+   }
