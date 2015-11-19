@@ -8,9 +8,8 @@
 
 .ic-body p{
   font-family: "Domine", serif;
-  font-size: 14px;
-  line-height: 1.42857143;
-  color: #333;
+  font-size: 16px;
+  color: rgb(68, 68, 68);
 }
 
 .h1 {
@@ -48,4 +47,7 @@
    .social-nav li {
      list-style: none;
      text-align: left;
+   }
+   .secondary-nav-images {
+     display: block;
    }
