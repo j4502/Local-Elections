@@ -18,7 +18,22 @@
       </li>
     </ul>
   </nav>
+<div> /* Dead Simple Grid (c) 2015 Vladimir Agafonkin */
 
+.row .row { margin:  0 -1.5em; }
+.col      { padding: 0  1.5em; }
+
+.row:before, .row:after {
+    content: "";
+    display: table;
+}
+.row:after { clear: both; }
+
+@media only screen { .col {
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+}}</div>
 <ul>
 <li><a href="/"> <img src="../images/candidate1.jpg" alt="Candidate 1"> <h2> John Smith </h2></a></li>
  <li><a href="/"> <img src="../images/candidate2.jpg" alt="Candidate 2"> <h2>Matty Lee</h2></a></li>
