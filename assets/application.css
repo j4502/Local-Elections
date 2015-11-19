@@ -42,3 +42,11 @@
      list-style: none;
      text-align: center;
    }
+   .social-nav ul {
+     margin: 0;
+     padding: 0;
+   }
+   .social-nav li {
+     list-style: none;
+     text-align: left;
+   }
