@@ -1,0 +1,68 @@
+@import "bootstrap.min.css";
+.ic-body ul{
+    font-family: "Domine", serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: rgb(68, 68, 68);
+  }
+
+.ic-body p{
+  font-family: "Domine", serif;
+  font-size: 16px;
+  color: rgb(68, 68, 68);
+}
+
+.h1 {
+   font-family: "Domine", serif;
+   font-size: 42px;
+   font-weight: normal;
+   color: rgb(51,51,51);
+ }
+
+ .h2 {
+    font-family: "Domine", serif;
+    font-size: 24px;
+    font-weight: normal;
+    color: rgb(51,51,51);
+  }
+
+  .p {
+     font-family: "Domine", serif;
+     font-size: 16px;
+     color: rgb(68,68,68);
+   }
+
+   .primary-nav ul {
+     margin: 0;
+    padding: 0;
+   }
+   .primary-nav li {
+     list-style: none;
+     text-align: center;
+   }
+   .social-nav ul {
+     margin: 0;
+     padding: 0;
+   }
+   .social-nav li {
+     list-style: none;
+     text-align: left;
+   }
+   .secondary-nav-images img {
+     display: block;
+   }
+
+
+   img,
+   iframe,
+   video,
+   svg {
+       display: block;
+       max-width: 100%;
+   }
+
+   .hp-nav li{
+       float: left;
+       list-style: none;
+       text-align: center;
+   }
