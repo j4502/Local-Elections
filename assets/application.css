@@ -61,7 +61,7 @@
        max-width: 100%;
    }
 
-   .HP nav {
+   .HP-nav li{
        float: left;
        list-style: none;
        text-align: center;
