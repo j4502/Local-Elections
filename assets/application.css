@@ -52,11 +52,17 @@
      display: block;
    }
 
-  
+
    img,
    iframe,
    video,
    svg {
        display: block;
        max-width: 100%;
+   }
+
+   .HP nav {
+       float: left;
+       list-style: none;
+       text-align: center;
    }
