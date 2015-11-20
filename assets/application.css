@@ -51,3 +51,12 @@
    .secondary-nav-images img {
      display: block;
    }
+
+  
+   img,
+   iframe,
+   video,
+   svg {
+       display: block;
+       max-width: 100%;
+   }
