@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang= "en">
+
+<head>
+  <title> Voting Locations and Times </title>
+  <meta charset="utf-8">
+  <meta name="author" content="Meghan LeVota, Lauren Slome, Amanda Byler, Kristin Rohlwing, Eliza Davidson">
+  <meta name="description" content="Local Elections">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="assets/application.css" rel="stylesheet"/>
+</head>
+
+<body>
+  <img src="images/missourian-logo.png" alt="Missourian Logo">
+
+
+  <h1>Voting Location and Times</h1>
+  <img src="">
+    <h2></h2>
+    <ul>
+      <li>Location 1</li>
+      <li>Location 2</li>
+      <li>Location 3</li>
+    </ul>
+    <h2>Candidate description</h2>
+    <p>This will be information about the candidate. Missourian reporters will be able to enter in the specific information that will give viewers a slightly more in-depth overview of the candidate.</p>
+    <a href="Link to candidate's campaign website"> Visit Candidate's website </a>
+</body>
+
+</html>
