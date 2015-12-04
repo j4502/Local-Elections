@@ -39,7 +39,14 @@
    .primary-nav li {
      list-style: none;
      text-align: center;
+     color: black;
    }
+   .primary-nav a {
+     color:black;
+
+   }
+
+
    .social-nav ul {
      margin: 0;
      padding: 0;
@@ -79,4 +86,5 @@
 
    .candidate-list {
      list-style: none;
+     padding-left: 20;
    }
