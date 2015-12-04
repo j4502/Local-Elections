@@ -66,3 +66,17 @@
        list-style: none;
        text-align: center;
    }
+
+   .checklist ul {
+     margin: 0;
+    padding: 0;
+   }
+
+   .checklist li {
+     list-style: none;
+     text-align: left;
+   }
+
+   .candidate-list {
+     list-style: none;
+   }
