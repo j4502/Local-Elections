@@ -39,7 +39,14 @@
    .primary-nav li {
      list-style: none;
      text-align: center;
+     color: black;
    }
+   .primary-nav a {
+     color:black;
+
+   }
+
+
    .social-nav ul {
      margin: 0;
      padding: 0;
@@ -65,4 +72,19 @@
        float: left;
        list-style: none;
        text-align: center;
+   }
+
+   .checklist ul {
+     margin: 0;
+    padding: 0;
+   }
+
+   .checklist li {
+     list-style: none;
+     text-align: left;
+   }
+
+   .candidate-list {
+     list-style: none;
+     padding-left: 20;
    }
