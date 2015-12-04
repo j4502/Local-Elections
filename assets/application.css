@@ -69,13 +69,18 @@
 
    .checklist ul {
      margin: 0;
-    padding: 0;
+    padding: 40;
    }
 
    .checklist li {
      list-style: none;
      text-align: left;
    }
+
+   .candidate-list {
+    list-style: none;
+  }
+
    .Candidates ul {
      margin: 0;
     padding: 0;
@@ -89,3 +94,7 @@
    .logo {
      align-items: right
    }
+
+.check-icons i {
+  align: left
+}
