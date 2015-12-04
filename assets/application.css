@@ -76,3 +76,12 @@
      list-style: none;
      text-align: left;
    }
+   .Candidates ul {
+     margin: 0;
+    padding: 0;
+   }
+
+   .Candidates li {
+     list-style: none;
+     text-align: left;
+   }
