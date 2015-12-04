@@ -79,14 +79,11 @@
 
    .candidate-list {
      list-style: none;
-<<<<<<< HEAD
      padding-left: 20;
-=======
      text-align: left;
    }
 
    .logo img {
      margin: 0
      padding: 100
->>>>>>> origin/develop
    }
