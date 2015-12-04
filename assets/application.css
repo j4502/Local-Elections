@@ -85,3 +85,7 @@
      list-style: none;
      text-align: left;
    }
+
+   .logo {
+     align-items: right
+   }
