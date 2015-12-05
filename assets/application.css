@@ -64,8 +64,12 @@ a{
    .secondary-nav-images img {
      display: block;
    }
-
-
+   .primary-nav a {
+     color: black;
+   }
+   .secondary-nav-images a {
+     color:black;
+   }
    img,
    iframe,
    video,
