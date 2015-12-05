@@ -45,7 +45,14 @@ a{
    .primary-nav li {
      list-style: none;
      text-align: center;
+     color: black;
    }
+   .primary-nav a {
+     color:black;
+
+   }
+
+
    .social-nav ul {
      margin: 0;
      padding: 0;
