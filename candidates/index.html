@@ -6,20 +6,36 @@
   <meta name="author" content="Meghan LeVota, Lauren Slome, Amanda Byler, Kristin Rohlwing, Eliza Davidson">
   <meta name="description" content="Local Elections">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="assets/application.css" rel="stylesheet" />
+  <link href="/Local-Elections/assets/application.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
  </head>
 <body>
-  <nav>
-    <ul>
-      <li>
-        <a href="/">
-          <img src="/Local-Elections/assets/images/missourian-logo.png" alt="Missourian Logo">
-          <span>Elections 2016</span>
-        </a>
-      </li>
+  <nav class= "hp-nav">
+  <div class="container-fluid">
+  <ul class="row">
+    <li>
+      <a href="/">
+        <div class="logo">
+        <img class="col-xs-6" src="/Local-Elections/assets/images/missourian-logo.png" alt="Missourian Logo">
+        <span>Elections 2016</span>
+      </div>
+      </a>
+    </li>
+  </ul>
+
+  <nav class="primary-nav">
+    <ul class="row">
+      <li class="col-xs-3"><a href="/Local-Elections/candidates/">Local</a></li>
+      <li class="col-xs-3"><a href="/Local-Elections/state/">State</a></li>
+      <li class="col-xs-3"><a href="/Local-Elections/voting-location-times/">Voting Information</a></li>
+      <li class="col-xs-3"><a href="/federal_elections/">Federal Elections</a></li>
     </ul>
   </nav>
-  <div class="container-fluid">
+  
+</div>
+</nav>
+  <div class="Candidates">
+
 
 <ul class= "candidate-list">
 <li><a href="/Local-Elections/individual-candidate/"> <img src="/Local-Elections/assets/images/candidate4.jpg" alt="Candidate 4"> <h2>Morgan Butler</h2></a></li>
@@ -30,21 +46,21 @@
 </ul>
 </div>
 
-<footer>
-  <ul>
-    <li>
+<footer class="social-nav">
+  <ul class="row">
+    <li class="col-xs-3">
         <a href="https://www.facebook.com/ColumbiaMissourian"><i class="fa fa-facebook-official"></i>Facebook</a>
     </li>
-    <li>
+    <li class="col-xs-2">
           <a href="https://twitter.com/comissourian"><i class="fa fa-twitter"></i>Twitter</a>
     </li>
-    <li>
+    <li class="col-xs-3">
         <a href="https://instagram.com/comissourian/"><i class="fa fa-instagram"></i>Instagram</a>
     </li>
-    <li>
+    <li class="col-xs-2">
         <a href="https://www.youtube.com/user/ColumbiaMissourian"><i class="fa fa-youtube"></i>YouTube</a>
     </li>
-    <li>
+    <li class="col-xs-2">
         <a href="https://vimeo.com/columbiamissourian"><i class="fa fa-vimeo-square"></i>Vimeo</a>
     </li>
   </ul>

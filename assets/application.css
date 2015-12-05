@@ -1,4 +1,10 @@
 @import "bootstrap.min.css";
+
+/* links */
+a{
+  color:#000;
+}
+
 .ic-body ul{
     font-family: "Domine", serif;
     font-size: 16px;
@@ -58,8 +64,12 @@
    .secondary-nav-images img {
      display: block;
    }
-
-
+   .primary-nav a {
+     color: black;
+   }
+   .secondary-nav-images a {
+     color:black;
+   }
    img,
    iframe,
    video,
@@ -87,4 +97,10 @@
    .candidate-list {
      list-style: none;
      padding-left: 20;
+     text-align: left;
+   }
+
+   .logo img {
+     margin: 0;
+     float: right;
    }
