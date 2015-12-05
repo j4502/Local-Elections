@@ -1,4 +1,10 @@
 @import "bootstrap.min.css";
+
+/links/
+a{
+  color:#000;
+}
+
 .ic-body ul{
     font-family: "Domine", serif;
     font-size: 16px;
