@@ -107,5 +107,5 @@ a{
 
    .logo span {
      margin: 0;
-     float: right;
+     float: inherit;
    }
