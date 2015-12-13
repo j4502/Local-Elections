@@ -104,3 +104,13 @@ a{
      margin: 0;
      float: right;
    }
+
+   .districts ul {
+     margin: 0;
+    padding: 0;
+   }
+
+   .districts li {
+     list-style: none;
+     text-align: left;
+   }
