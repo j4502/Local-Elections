@@ -93,6 +93,10 @@ a{
      list-style: none;
      text-align: left;
    }
+   .checklist h1 {
+     margin: 0;
+     padding: 1em;
+   }
 
    .candidate-list {
      list-style: none;
