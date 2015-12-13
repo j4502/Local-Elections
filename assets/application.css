@@ -113,3 +113,9 @@ a{
     
 
    }
+
+   .local-issues {
+     list-style: none;
+     padding-left: 20;
+     text-align: left;
+   }
