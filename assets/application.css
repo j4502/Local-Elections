@@ -93,6 +93,10 @@ a{
      list-style: none;
      text-align: left;
    }
+   .checklist h1 {
+     margin: 0;
+     padding: 1em;
+   }
 
    .candidate-list {
      list-style: none;
@@ -105,10 +109,20 @@ a{
      float: right;
    }
 
-   .logo span {
-     margin: 0;
-     float: right;
-     text-align: right;
+   .information {
+     list-style: none;
+     padding-left: 2em;
+     padding-bottom: 2em;
+     padding-right: 2em;
+     text-align: left;
+
+
+   }
+
+   .local-issues {
+     list-style: none;
+     padding-left: 20;
+     text-align: left;
    }
 
    .social-nav {
