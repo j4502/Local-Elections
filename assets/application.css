@@ -93,6 +93,11 @@ a{
      list-style: none;
      text-align: left;
    }
+
+   .checklist i {
+     margin: 0;
+     padding-right: .2em;
+   }
    .checklist h1 {
      margin: 0;
      padding: .5em;
