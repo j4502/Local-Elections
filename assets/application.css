@@ -110,3 +110,19 @@ a{
      float: right;
      text-align: right;
    }
+
+   .social-nav {
+     margin-top: 50px;
+     padding-top: 20px;
+     background-color: #3B58A8;
+   }
+
+   .social-nav a {
+     color: white;
+   }
+
+   .social-nav p {
+     padding-left: 10px;
+     padding-bottom: 20px;
+     color: white;
+   }
