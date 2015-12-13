@@ -107,10 +107,11 @@ a{
 
    .information {
      list-style: none;
-     padding-left: 20;
-     padding-bottom: 20;
+     padding-left: 2em;
+     padding-bottom: 2em;
+     padding-right: 2em;
      text-align: left;
-    
+
 
    }
 
