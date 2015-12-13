@@ -105,8 +105,11 @@ a{
      float: right;
    }
 
-   .logo span {
-     margin: 0;
-     float: right;
-     text-align: right;
+   .information {
+     list-style: none;
+     padding-left: 20;
+     padding-bottom: 20;
+     text-align: left;
+    
+
    }
