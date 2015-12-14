@@ -5,6 +5,18 @@ a{
   color:#000;
 }
 
+/* Logo */
+.logo-wrapper {
+    display: block;
+    float: right;
+}
+
+.logo-subhead {
+  text-align: center;
+  color:#3B58A8;
+  font-size:1.2em;
+}
+
 .ic-body ul{
     font-family: "Domine", serif;
     font-size: 16px;
