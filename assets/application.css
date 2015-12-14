@@ -121,7 +121,7 @@ a{
 
    .candidate-list {
      list-style: none;
-     padding-left: 20;
+     padding: 0;
      text-align: left;
    }
 
