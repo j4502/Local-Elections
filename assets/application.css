@@ -131,7 +131,7 @@ a{
    }
 
    .candidate-list h2{
-    text-align: right;
+    float: right;
    }
 
    .logo img {
