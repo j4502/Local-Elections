@@ -73,8 +73,8 @@ a{
      list-style: none;
      text-align: left;
    }
-   .social-nav li a {
-     width: 20px;
+   .social-nav i {
+    font-size: 1.65em;
    }
 
    .secondary-nav-images img {
@@ -140,8 +140,6 @@ a{
      padding-bottom: 2em;
      padding-right: 2em;
      text-align: left;
-
-
    }
 
    .local-issues {
