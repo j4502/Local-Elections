@@ -72,7 +72,9 @@ a{
    .social-nav li {
      list-style: none;
      text-align: left;
+     font-size: 18px;
    }
+
    .secondary-nav-images img {
      display: block;
    }
