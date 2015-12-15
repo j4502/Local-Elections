@@ -13,8 +13,9 @@ a{
 
 .logo-subhead {
   text-align: center;
-  color:#3B58A8;
+  color: rgb(192, 72, 72);
   font-size:1.2em;
+  font-weight: bold;
 }
 
 .ic-body ul{
