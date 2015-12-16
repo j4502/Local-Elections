@@ -5,6 +5,19 @@ a{
   color:#000;
 }
 
+/* Logo */
+.logo-wrapper {
+    display: block;
+    float: right;
+}
+
+.logo-subhead {
+  text-align: center;
+  color: rgb(192, 72, 72);
+  font-size:1.2em;
+  font-weight:bold;
+}
+
 .ic-body ul{
     font-family: "Domine", serif;
     font-size: 16px;
@@ -59,8 +72,12 @@ a{
    }
    .social-nav li {
      list-style: none;
-     text-align: left;
+     text-align: center;
    }
+   .social-nav i {
+    font-size: 1.65em;
+   }
+
    .secondary-nav-images img {
      display: block;
    }
@@ -94,13 +111,70 @@ a{
      text-align: left;
    }
 
+   .checklist i {
+     margin: 0;
+     padding-right: .2em;
+   }
+   .checklist h1 {
+     margin: 0;
+     padding: .5em;
+   }
+   .checklist p {
+     margin: 0;
+     padding-left: 1.75em;
+   }
+
    .candidate-list {
      list-style: none;
-     padding-left: 20;
+     padding: 0;
      text-align: left;
    }
+
 
    .logo img {
      margin: 0;
      float: right;
+   }
+
+   .information {
+     list-style: none;
+     padding-left: 2em;
+     padding-bottom: 2em;
+     padding-right: 2em;
+     text-align: left;
+   }
+
+   .local-issues {
+     list-style: none;
+     padding: 0;
+     text-align: left;
+   }
+
+   .social-nav {
+     margin-top: 50px;
+     padding-top: 20px;
+     background-color: #3B58A8;
+   }
+
+   .social-nav a {
+     color: white;
+   }
+
+   .social-nav p {
+     padding-left: 10px;
+     padding-bottom: 20px;
+     color: white;
+   }
+
+   .primary-nav {
+     background-color: #3B58A8;
+   }
+
+   .primary-nav a {
+     color: white;
+   }
+
+   .primary-nav li {
+     padding-top: 10px;
+     padding-bottom: 10px;
    }
